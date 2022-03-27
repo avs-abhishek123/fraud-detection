@@ -11,7 +11,12 @@ print("sum function")
 
 def multiplication(a,b):
     d =a*b
-    return d
+    return b
 
 print("Multiplication function")
     
+def division(a,b):
+    e= a/b
+    return a
+
+print("division function")
